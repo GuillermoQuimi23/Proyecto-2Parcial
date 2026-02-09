@@ -3,10 +3,10 @@
  * Archivo de configuración de la base de datos
  */
 
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'inventario_db');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_HOST', 'sql10.freesqldatabase.com');
+define('DB_NAME', 'sql10816632');
+define('DB_USER', 'sql10816632');
+define('DB_PASS', 'dZJlHD2Xn6');
 define('DB_CHARSET', 'utf8mb4');
 
 // Configuración de la aplicación
