@@ -28,8 +28,9 @@ Sistema web desarrollado en PHP utilizando el patrón MVC para la gestión de pr
 5. Configurar conexión en config/Database.php.
 
 6. Ejecutar en el navegador:
-   http://localhost/inventario-php2
+   http://localhost/inventario-php2/public/index.php
 
 ## Autor
 Guillermo Quimi  
 Ingeniería en Sistemas
+
